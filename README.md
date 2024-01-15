@@ -1,7 +1,9 @@
 # Project Overview
 This project started at the beginning of March and was completed at the end of April, which lasted two months. The main part is to design a program that can count steps, based on TensorFlow's pose detection model. Additionally, the number of steps of each user should be recorded and ranked, and displayed on the front end in the form of a leaderboard.
 
-这个项目从3月初开始，四月底完成，历时两个月。主要任务是设计一个可以计算步数的程序，以TensorFlow的人体检测模型为基础。同时，还要对每位用户的步数进行记录和排名，以排行榜的形式展示在前端。
+这个项目从3月初开始，四月底完成，历时两个月。主要任务是设计一个可以计算步数的程序，以TensorFlow的人体检测模型为基础。同时，还要对每位用户的步数进行记录和排名，以排行榜 
+
+author: https://library.hkust.edu.hk/china-in-maps/about-us   **Running Game** development team
 # Procedures 
 ## Step1: Learning 
 In this step, I learned the principle of PoseNet and Body track. Besides, I tried to run the pose detection model provided on the MoveNet official website and had basic ideas of the purpose of each part of the code.
